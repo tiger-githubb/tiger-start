@@ -1,22 +1,14 @@
 {
-  "name": "tiger-start",
+  "name": "tigerstart",
   "version": "0.1.1",
-  "description": "starting project",
-  "main": "index.js",
+  "description": "initiation d'environement de developpement",
+  "main": "/js/main.js",
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tiger-githubb/tiger-start.git"
-  },
-  "author": "Tiger-githubb",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tiger-githubb/tiger-start/issues"
-  },
-  "homepage": "https://github.com/tiger-githubb/tiger-start#readme"
+  "author": "tiger-githubb",
+  "license": "ISC"
 }
